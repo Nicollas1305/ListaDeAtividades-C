@@ -1,2 +1,2 @@
 # ListaDeAtividades-C
-Atividade prática na linguagem C. Ciência da computação - IEPO 
+-Atividade pratica usando a linguagem de programação C. Ciência da computação IEPO
